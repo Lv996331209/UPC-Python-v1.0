@@ -99,10 +99,6 @@ latex_elements={# The paper size ('letterpaper' or 'a4paper').
 # Grouping the document tree into LaTeX files. List of tuples
 # (source start file, target name, title,
 #  author, documentclass [howto, manual, or own class]).
-latex_documents = [
-  ('index', 'python3-cookbook.tex', u'《Python编程时光》',
-   u'小明同学', 'howto'),
-]
 
 # -- Options for manual page output ---------------------------------------
 
